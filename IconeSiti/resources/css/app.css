@@ -1,0 +1,315 @@
+/*цвет кожи #F8E9A1 - бордовый #F76C6C -светло сини #A8D0E6 - синий #374785 - темно синий #24305E */
+/* #FBE8A6 - #F4976C - #303C6C - #B4DFE5 - #D2FDFF */
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+ul {
+    padding-inline-start: 0;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contaner {
+    font-family: 'Lobster', cursive;
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 15px;
+    min-width: 1200px;
+}
+
+.header {
+    display: flex;
+    background-color: #F8E9A1;
+    padding: 0px;
+    margin: 0px;
+}
+
+.main {
+    background-color: #A8D0E6;
+    padding-top: 20px;
+    margin: 0px;
+    height: 100%;
+}
+
+.topMenu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftMoveTop {
+    display: flex;
+}
+
+.leftMoveTop>li {
+    border: 2px solid #374785;
+    transition: all 0.3s;
+    list-style-type: none;
+    margin: 10px 10px 5px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+.rithgMoveTop {
+    display: flex;
+    position: relative;
+    white-space: nowrap;
+}
+
+.rithgMoveTop>li {
+    border: 2px solid #374785;
+    transition: all 0.3s;
+    list-style-type: none;
+    margin: 10px 5% 5px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+.topMenu_Submenu {
+    border: 2px solid #374785;
+    background-color: #F8E9A1;
+    list-style-type: none;
+    margin: 0px;
+    padding: 5px 5px 5px 10px;
+    visibility: hidden;
+    position: absolute;
+    top: 89%;
+    left: 0px;
+    width: 100%;
+    z-index: 15;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+    opacity: 0;
+}
+
+.topMenu_Submenu>li {
+    margin: 10px 0px 5px 0px;
+}
+
+.topMenu li:hover .topMenu_Submenu {
+    opacity: 1;
+    visibility: visible;
+}
+
+.contaner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.homeContaner{
+    letter-spacing: 1px;
+    padding: 25px;
+    border: 2px solid #374785;
+}
+.homeContaner_top {
+    text-align: center;
+    font-size: 32px;
+    padding: 5px;
+    margin: 10px;
+}
+.homeContaner_1_metca {
+    padding: 10px 0px 10px 0px;
+    margin: 10px 0px 10px 0px;
+    font-size: 21px;
+}
+.homeContaner_2_metca {
+    padding: 10px 0px 10px 0px;
+    margin: 10px 0px 10px 0px;
+    font-size: 21px;
+}
+.homeContaner_3_metca {
+    padding: 10px 0px 10px 0px;
+    margin: 10px 0px 10px 0px;
+    font-size: 21px;
+}
+.homeContaner_metca_setting{
+    display: flex;
+    justify-content:center;
+}
+.homeContaner_metca_setting a{
+    color: #24305E;
+    background-color: #F8E9A1;
+    border: 2px solid #374785;
+    font-size: 21px;
+    padding: 15px;
+    margin: 10px;
+}
+.mapAndInput {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.mapAndInput_Map {
+    width: 100%;
+}
+.mapAndInput_Input {
+    max-width: 300px;
+    padding-bottom: 15px;
+}
+.mapAndInput_Map-MAP{
+    width: 100%;
+    height: 500px;
+    padding-right: 50px;
+}
+.mapAndInput_Map_Filter{
+    display: flex;
+}
+.mapAndInput_Map_Filter_Selectop {
+    height: 35px;
+    width: 160px;
+    margin-right: 10px;
+}
+.filter_Like_Coll_Contan{
+    display:none;
+}
+#likeCollContan{
+    display:none;
+}
+.mapAndInput_Input_Top {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.mapAndInput_Input_Top_Selectop {
+    height: 30px;
+    width: 50px;
+    margin-right: 15px;
+}
+
+.mapAndInput_Input_Top_Text {
+    width: 100%;
+}
+
+.mapAndInput_Input_AllInform {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 15px;
+    resize: none;
+}
+
+.mapAndInput_Input_Imag {
+    margin-bottom: 15px;
+}
+
+.mapAndInput_Input_Error {
+    margin-bottom: 15px;
+}
+
+.contanePersonalKabinet {
+    display: block;
+    margin: 5px 0px 5px 0px;
+    padding: 5px 0px 5px 5px;
+}
+
+.contanePersonalKabinet_Post {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 1000;
+    letter-spacing: 1px;
+    background-color: #8da3fc;
+    border: 2px solid #374785;
+    color: #fff !important;
+    margin: 5px 0px 5px 0px;
+    padding: 5px 0px 5px 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.contanePersonalKabinet-contane{
+    display: flex;
+    justify-content: left;
+}
+.contanePersonalKabinet_Setting{
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+}
+.contanePersonalKabinet_Setting-Update{
+    color: #fff;
+    padding: 0px 10px 0px 0px;
+    text-align: revert;
+    vertical-align: middle;
+}
+.contanePersonalKabinet_Setting-Delet{
+    color: #fff;
+    padding: 0px 10px 0px 0px;
+    text-align: revert;
+    vertical-align: middle;
+}
+.contanePersonalKabinet_Post-Name {
+    color: #fff;
+    min-width: 200px;
+    max-width: 200px;
+    padding: 0px 10px 0px 0px;
+    text-align: revert;
+    vertical-align: middle;
+}
+
+.contanePersonalKabinet_Post-allInform {
+    color: #fff;
+    min-width: 300px;
+    max-width: 300px;
+    padding: 0px 10px 0px 0px;
+    text-align: revert;
+    vertical-align: middle;
+}
+
+.contanePersonalKabinet_Post-like {
+    color: #fff;
+    min-width: 300px;
+    max-width: 300px;
+    padding: 0px 10px 0px 0px;
+    text-align: revert;
+    vertical-align: middle;
+}
+
+.contanePersonalKabinet_Post-image {
+    color: #fff;
+    padding: 0px 10px 0px 0px;
+    text-align: revert;
+    vertical-align: middle;
+}
+
+.rigistrated_Contaner {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.rigistrated_Contaner > div {
+    margin: 10px;
+}
+
+.rigistrated_Contaner > div > input{
+    padding: 5px 20px 5px 20px;
+    width: 200px;
+    height: 40px;
+    border: 2px solid #374785;
+    background: #F8E9A1;
+    color: #374785;
+}
+
+.rigistrated_Contaner_button {
+    padding: 10px;
+    margin: 5px;
+    color: #374785;
+    border: 2px solid #374785;
+    background: #F8E9A1;
+    min-width: 150px;
+    transition-duration: .4s;
+}
+
+.rigistrated_Contaner_button:hover {
+    background: #f68282;
+    cursor: pointer;
+    min-width: 200px
+  }
