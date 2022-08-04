@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auto-catalog>
+  <offers>
+    <offer>
+      <id>359039</id>
+      <mark>ГАЗ</mark>
+      <model>13 «Чайка»</model>
+      <generation>(1959-1981)</generation>
+      <year>1968</year>
+      <run>1453</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>20351648</generation_id>
+    </offer>
+    <offer>
+      <id>402501</id>
+      <mark>Волжанин</mark>
+      <model>5285</model>
+      <generation></generation>
+      <year>2012</year>
+      <run>192500</run>
+      <color>Зеленый</color>
+      <body-type>Специальный</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id></generation_id>
+    </offer>
+    <offer>
+      <id>412873</id>
+      <mark>Honda</mark>
+      <model>CR-V</model>
+      <generation>V (2016-2022)</generation>
+      <year>2017</year>
+      <run>47751</run>
+      <color>Серебристый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20875803</generation_id>
+    </offer>
+    <offer>
+      <id>415531</id>
+      <mark>Kia</mark>
+      <model>Cerato</model>
+      <generation>IV (2018-2021)</generation>
+      <year>2020</year>
+      <run>43009</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>21383450</generation_id>
+    </offer>
+    <offer>
+      <id>418415</id>
+      <mark>Porsche</mark>
+      <model>Boxster</model>
+      <generation>III (981) (2012-2016)</generation>
+      <year>2013</year>
+      <run>16102</run>
+      <color>Коричневый</color>
+      <body-type>Родстер</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>8283150</generation_id>
+    </offer>
+    <offer>
+      <id>419842</id>
+      <mark>Mercedes</mark>
+      <model>GLA</model>
+      <generation>I (X156) (2013-2017)</generation>
+      <year>2014</year>
+      <run>94500</run>
+      <color>Красный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20090323</generation_id>
+    </offer>
+    <offer>
+      <id>420703</id>
+      <mark>Audi</mark>
+      <model>A6</model>
+      <generation>IV (C7) Рестайлинг (2014-2018)</generation>
+      <year>2016</year>
+      <run>144000</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20246005</generation_id>
+    </offer>
+    <offer>
+      <id>421394</id>
+      <mark>Kia</mark>
+      <model>Seltos</model>
+      <generation>I (2019-2022)</generation>
+      <year>2021</year>
+      <run>14114</run>
+      <color>Синий</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21662520</generation_id>
+    </offer>
+    <offer>
+      <id>422031</id>
+      <mark>Volkswagen</mark>
+      <model>Jetta</model>
+      <generation>I (1978-1984)</generation>
+      <year>1981</year>
+      <run>233111</run>
+      <color>Зеленый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>3493006</generation_id>
+    </offer>
+    <offer>
+      <id>423659</id>
+      <mark>Hyundai</mark>
+      <model>Solaris</model>
+      <generation>II Рестайлинг (2020-2022)</generation>
+      <year>2021</year>
+      <run>29880</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>21796089</generation_id>
+    </offer>
+    <offer>
+      <id>424231</id>
+      <mark>Land Rover</mark>
+      <model>Defender</model>
+      <generation>II (2019-2022)</generation>
+      <year>2020</year>
+      <run>9282</run>
+      <color>Зеленый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21667063</generation_id>
+    </offer>
+    <offer>
+      <id>424680</id>
+      <mark>Renault</mark>
+      <model>Kadjar</model>
+      <generation>I (2015-2018)</generation>
+      <year>2017</year>
+      <run>88973</run>
+      <color>Синий</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20554957</generation_id>
+    </offer>
+    <offer>
+      <id>425314</id>
+      <mark>Audi</mark>
+      <model>A6</model>
+      <generation>IV (C7) (2011-2014)</generation>
+      <year>2012</year>
+      <run>179168</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>6937659</generation_id>
+    </offer>
+    <offer>
+      <id>425517</id>
+      <mark>Infiniti</mark>
+      <model>QX50</model>
+      <generation>I (2013-2015)</generation>
+      <year>2013</year>
+      <run>147380</run>
+      <color>Бордовый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20182055</generation_id>
+    </offer>
+    <offer>
+      <id>425617</id>
+      <mark>Volkswagen</mark>
+      <model>Golf R</model>
+      <generation>VII (2013-2017)</generation>
+      <year>2014</year>
+      <run>164685</run>
+      <color>Синий</color>
+      <body-type>Хэтчбек 3 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20063351</generation_id>
+    </offer>
+    <offer>
+      <id>426760</id>
+      <mark>Skoda</mark>
+      <model>Superb</model>
+      <generation>III (2015-2019)</generation>
+      <year>2016</year>
+      <run>65606</run>
+      <color>Белый</color>
+      <body-type>Лифтбек</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20483375</generation_id>
+    </offer>
+    <offer>
+      <id>427266</id>
+      <mark>Audi</mark>
+      <model>A3</model>
+      <generation>III (8V) Рестайлинг (2016-2020)</generation>
+      <year>2019</year>
+      <run>34279</run>
+      <color>Темно-синий</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20785010</generation_id>
+    </offer>
+    <offer>
+      <id>427287</id>
+      <mark>Nissan</mark>
+      <model>Murano</model>
+      <generation>II (Z51) Рестайлинг 2 (2011-2015)</generation>
+      <year>2014</year>
+      <run>127426</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20288827</generation_id>
+    </offer>
+    <offer>
+      <id>428132</id>
+      <mark>Nissan</mark>
+      <model>Qashqai</model>
+      <generation>II Рестайлинг (2017-2022)</generation>
+      <year>2019</year>
+      <run>85197</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21060966</generation_id>
+    </offer>
+    <offer>
+      <id>428491</id>
+      <mark>Ford</mark>
+      <model>EcoSport</model>
+      <generation>I (2014-2018)</generation>
+      <year>2015</year>
+      <run>24737</run>
+      <color>Оранжевый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20104320</generation_id>
+    </offer>
+    <offer>
+      <id>428603</id>
+      <mark>BMW</mark>
+      <model>5 серии</model>
+      <generation>VI (F10/F11/F07) (2009-2013)</generation>
+      <year>2011</year>
+      <run>236979</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>6088519</generation_id>
+    </offer>
+    <offer>
+      <id>429224</id>
+      <mark>Kia</mark>
+      <model>Sportage</model>
+      <generation>IV (2016-2018)</generation>
+      <year>2017</year>
+      <run>101939</run>
+      <color>Черный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20683534</generation_id>
+    </offer>
+    <offer>
+      <id>429351</id>
+      <mark>Volkswagen</mark>
+      <model>Tiguan</model>
+      <generation>I Рестайлинг (2011-2017)</generation>
+      <year>2013</year>
+      <run>86650</run>
+      <color>Серый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>7339785</generation_id>
+    </offer>
+    <offer>
+      <id>429444</id>
+      <mark>Nissan</mark>
+      <model>Teana</model>
+      <generation>II Рестайлинг (2011-2014)</generation>
+      <year>2012</year>
+      <run>115482</run>
+      <color>Бордовый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20194453</generation_id>
+    </offer>
+    <offer>
+      <id>429899</id>
+      <mark>Renault</mark>
+      <model>Talisman</model>
+      <generation>I (2015-2020)</generation>
+      <year>2017</year>
+      <run>83700</run>
+      <color>Синий</color>
+      <body-type>Универсал 5 дв.</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20643098</generation_id>
+    </offer>
+    <offer>
+      <id>429975</id>
+      <mark>Jaguar</mark>
+      <model>XKR</model>
+      <generation>I (1998-2004)</generation>
+      <year>1999</year>
+      <run>65746</run>
+      <color>Красный</color>
+      <body-type>Кабриолет</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>8260361</generation_id>
+    </offer>
+    <offer>
+      <id>430069</id>
+      <mark>Skoda</mark>
+      <model>Rapid</model>
+      <generation>I Рестайлинг (2017-2020)</generation>
+      <year>2020</year>
+      <run>16761</run>
+      <color>Коричневый</color>
+      <body-type>Лифтбек</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>21005574</generation_id>
+    </offer>
+    <offer>
+      <id>430231</id>
+      <mark>Mercedes</mark>
+      <model>GLK-Класс</model>
+      <generation>I (X204) Рестайлинг (2012-2015)</generation>
+      <year>2014</year>
+      <run>204434</run>
+      <color>Черный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>8225450</generation_id>
+    </offer>
+    <offer>
+      <id>430913</id>
+      <mark>Volkswagen</mark>
+      <model>Polo</model>
+      <generation>VI (2020-2022)</generation>
+      <year>2021</year>
+      <run>1</run>
+      <color>Белый</color>
+      <body-type>Лифтбек</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>22163516</generation_id>
+    </offer>
+    <offer>
+      <id>431106</id>
+      <mark>Kia</mark>
+      <model>Optima</model>
+      <generation>IV Рестайлинг (2018-2020)</generation>
+      <year>2018</year>
+      <run>82217</run>
+      <color>Синий</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>21342050</generation_id>
+    </offer>
+    <offer>
+      <id>431188</id>
+      <mark>Mercedes</mark>
+      <model>Viano</model>
+      <generation>I (W639) (2003-2010)</generation>
+      <year>2008</year>
+      <run>172069</run>
+      <color>Черный</color>
+      <body-type>Минивэн Long</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>2307843</generation_id>
+    </offer>
+    <offer>
+      <id>431468</id>
+      <mark>Toyota</mark>
+      <model>Camry</model>
+      <generation>VII (XV50) (2011-2014)</generation>
+      <year>2013</year>
+      <run>127103</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>7722388</generation_id>
+    </offer>
+    <offer>
+      <id>431552</id>
+      <mark>Skoda</mark>
+      <model>Rapid</model>
+      <generation>I (2012-2017)</generation>
+      <year>2016</year>
+      <run>114996</run>
+      <color>Синий</color>
+      <body-type>Лифтбек</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>9275797</generation_id>
+    </offer>
+    <offer>
+      <id>431615</id>
+      <mark>Kia</mark>
+      <model>Sorento</model>
+      <generation>III Prime Рестайлинг (2017-2020)</generation>
+      <year>2019</year>
+      <run>49186</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21180462</generation_id>
+    </offer>
+    <offer>
+      <id>432237</id>
+      <mark>Nissan</mark>
+      <model>Qashqai</model>
+      <generation>II Рестайлинг (2017-2022)</generation>
+      <year>2021</year>
+      <run>15181</run>
+      <color>Темно-серый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>21060966</generation_id>
+    </offer>
+    <offer>
+      <id>432302</id>
+      <mark>Hyundai</mark>
+      <model>i40</model>
+      <generation>I (2011-2015)</generation>
+      <year>2012</year>
+      <run>135254</run>
+      <color>Красный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>7909720</generation_id>
+    </offer>
+    <offer>
+      <id>432370</id>
+      <mark>Skoda</mark>
+      <model>Kodiaq</model>
+      <generation>I (2016-2022)</generation>
+      <year>2018</year>
+      <run>68481</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20839003</generation_id>
+    </offer>
+    <offer>
+      <id>432457</id>
+      <mark>Mercedes</mark>
+      <model>C-Класс</model>
+      <generation>IV (W205) (2014-2018)</generation>
+      <year>2015</year>
+      <run>147641</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>20089956</generation_id>
+    </offer>
+    <offer>
+      <id>434020</id>
+      <mark>BMW</mark>
+      <model>X2</model>
+      <generation>I (F39) (2017-2022)</generation>
+      <year>2019</year>
+      <run>2227</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20847120</generation_id>
+    </offer>
+    <offer>
+      <id>434040</id>
+      <mark>Mercedes</mark>
+      <model>E-Класс</model>
+      <generation>V (W213, S213, C238) (2016-2021)</generation>
+      <year>2016</year>
+      <run>128618</run>
+      <color></color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20743500</generation_id>
+    </offer>
+    <offer>
+      <id>434126</id>
+      <mark>Renault</mark>
+      <model>Kadjar</model>
+      <generation>I (2015-2018)</generation>
+      <year>2017</year>
+      <run>105245</run>
+      <color>Черный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20554957</generation_id>
+    </offer>
+    <offer>
+      <id>434765</id>
+      <mark>Skoda</mark>
+      <model>Octavia</model>
+      <generation>III (A7) (2013-2017)</generation>
+      <year>2017</year>
+      <run>97935</run>
+      <color>Серебристый</color>
+      <body-type>Лифтбек</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>9338208</generation_id>
+    </offer>
+    <offer>
+      <id>434825</id>
+      <mark>Nissan</mark>
+      <model>Juke</model>
+      <generation>I (2010-2014)</generation>
+      <year>2012</year>
+      <run>182132</run>
+      <color>Серый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>7277649</generation_id>
+    </offer>
+    <offer>
+      <id>435609</id>
+      <mark>Hyundai</mark>
+      <model>Tucson</model>
+      <generation>IV (2020-2022)</generation>
+      <year>2021</year>
+      <run>800</run>
+      <color>Черный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>22514490</generation_id>
+    </offer>
+    <offer>
+      <id>435652</id>
+      <mark>Volkswagen</mark>
+      <model>Polo</model>
+      <generation>VI (2020-2022)</generation>
+      <year>2021</year>
+      <run>11936</run>
+      <color>Черный</color>
+      <body-type>Лифтбек</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>22163516</generation_id>
+    </offer>
+    <offer>
+      <id>435823</id>
+      <mark>Porsche</mark>
+      <model>Taycan</model>
+      <generation>I (2019-2022)</generation>
+      <year>2021</year>
+      <run>12</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Электромотор</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21659436</generation_id>
+    </offer>
+    <offer>
+      <id>435901</id>
+      <mark>Nissan</mark>
+      <model>Murano</model>
+      <generation>III (Z52) (2014-2022)</generation>
+      <year>2017</year>
+      <run>23598</run>
+      <color>Черный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20511583</generation_id>
+    </offer>
+    <offer>
+      <id>436370</id>
+      <mark>Kia</mark>
+      <model>Cerato</model>
+      <generation>IV (2018-2021)</generation>
+      <year>2019</year>
+      <run>17602</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>21383450</generation_id>
+    </offer>
+    <offer>
+      <id>436467</id>
+      <mark>BMW</mark>
+      <model>5 серии</model>
+      <generation>VI (F10/F11/F07) Рестайлинг (2013-2017)</generation>
+      <year>2014</year>
+      <run>148937</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>10436648</generation_id>
+    </offer>
+    <offer>
+      <id>436899</id>
+      <mark>Hyundai</mark>
+      <model>Tucson</model>
+      <generation>III Рестайлинг (2018-2021)</generation>
+      <year>2020</year>
+      <run>25748</run>
+      <color>Синий</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21343951</generation_id>
+    </offer>
+    <offer>
+      <id>437188</id>
+      <mark>Toyota</mark>
+      <model>Highlander</model>
+      <generation>III (U50) (2013-2016)</generation>
+      <year>2015</year>
+      <run>117819</run>
+      <color>Черный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20082320</generation_id>
+    </offer>
+    <offer>
+      <id>437366</id>
+      <mark>Volkswagen</mark>
+      <model>Golf</model>
+      <generation>VII (2012-2017)</generation>
+      <year>2013</year>
+      <run>140262</run>
+      <color>Красный</color>
+      <body-type>Хэтчбек 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>9290793</generation_id>
+    </offer>
+    <offer>
+      <id>437960</id>
+      <mark>Peugeot</mark>
+      <model>408</model>
+      <generation>I (2012-2017)</generation>
+      <year>2015</year>
+      <run>140336</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>8350849</generation_id>
+    </offer>
+    <offer>
+      <id>438137</id>
+      <mark>Skoda</mark>
+      <model>Yeti</model>
+      <generation>I Рестайлинг (2013-2018)</generation>
+      <year>2014</year>
+      <run>34363</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20078038</generation_id>
+    </offer>
+    <offer>
+      <id>438202</id>
+      <mark>Mitsubishi</mark>
+      <model>Pajero Sport</model>
+      <generation>III (2015-2021)</generation>
+      <year>2018</year>
+      <run>92255</run>
+      <color>Серый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20663923</generation_id>
+    </offer>
+    <offer>
+      <id>438265</id>
+      <mark>Volvo</mark>
+      <model>S60</model>
+      <generation>II Рестайлинг (2013-2018)</generation>
+      <year>2014</year>
+      <run>117012</run>
+      <color>Бежевый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20008720</generation_id>
+    </offer>
+    <offer>
+      <id>438277</id>
+      <mark>Honda</mark>
+      <model>Civic</model>
+      <generation>IX (2011-2015)</generation>
+      <year>2012</year>
+      <run>185066</run>
+      <color>Белый</color>
+      <body-type>Хэтчбек 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>7879824</generation_id>
+    </offer>
+    <offer>
+      <id>438778</id>
+      <mark>Ford</mark>
+      <model>Focus</model>
+      <generation>II Рестайлинг (2007-2011)</generation>
+      <year>2008</year>
+      <run>69342</run>
+      <color>Серебристый</color>
+      <body-type>Универсал 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>2306579</generation_id>
+    </offer>
+    <offer>
+      <id>438793</id>
+      <mark>Hyundai</mark>
+      <model>Creta</model>
+      <generation>I (2016-2020)</generation>
+      <year>2018</year>
+      <run>137276</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20773960</generation_id>
+    </offer>
+    <offer>
+      <id>438808</id>
+      <mark>Ford</mark>
+      <model>Transit</model>
+      <generation></generation>
+      <year>2016</year>
+      <run>174179</run>
+      <color>Белый</color>
+      <body-type>Цельнометаллический фургон</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id></generation_id>
+    </offer>
+    <offer>
+      <id>438818</id>
+      <mark>Porsche</mark>
+      <model>Panamera</model>
+      <generation>II Рестайлинг (2020-2022)</generation>
+      <year>2021</year>
+      <run>18</run>
+      <color>Серый</color>
+      <body-type>Хэтчбек 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>22481288</generation_id>
+    </offer>
+    <offer>
+      <id>439216</id>
+      <mark>Skoda</mark>
+      <model>Yeti</model>
+      <generation>I Рестайлинг (2013-2018)</generation>
+      <year>2014</year>
+      <run>84550</run>
+      <color>Серебристый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20078038</generation_id>
+    </offer>
+    <offer>
+      <id>439416</id>
+      <mark>Kia</mark>
+      <model>Sorento</model>
+      <generation>II Рестайлинг (2012-2021)</generation>
+      <year>2012</year>
+      <run>149023</run>
+      <color>Бежевый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>8506299</generation_id>
+    </offer>
+    <offer>
+      <id>439596</id>
+      <mark>LADA (ВАЗ)</mark>
+      <model>Vesta</model>
+      <generation>I (2015-2022)</generation>
+      <year>2019</year>
+      <run>20440</run>
+      <color>Коричневый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20417749</generation_id>
+    </offer>
+    <offer>
+      <id>439622</id>
+      <mark>Hyundai</mark>
+      <model>Tucson</model>
+      <generation>IV (2020-2022)</generation>
+      <year>2021</year>
+      <run>34</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>22514490</generation_id>
+    </offer>
+    <offer>
+      <id>439624</id>
+      <mark>Nissan</mark>
+      <model>X-Trail</model>
+      <generation>III Рестайлинг (2017-2022)</generation>
+      <year>2021</year>
+      <run>10</run>
+      <color>Белый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>21179303</generation_id>
+    </offer>
+    <offer>
+      <id>439730</id>
+      <mark>BMW</mark>
+      <model>i3</model>
+      <generation>I (I01) (2013-2017)</generation>
+      <year>2017</year>
+      <run>72500</run>
+      <color>Черный</color>
+      <body-type>Хэтчбек 5 дв.</body-type>
+      <engine-type>Бензин гибридный</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>20342220</generation_id>
+    </offer>
+    <offer>
+      <id>439731</id>
+      <mark>Nissan</mark>
+      <model>X-Trail</model>
+      <generation>III (2013-2019)</generation>
+      <year>2016</year>
+      <run>76116</run>
+      <color>Черный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20246517</generation_id>
+    </offer>
+    <offer>
+      <id>439782</id>
+      <mark>Hyundai</mark>
+      <model>Solaris</model>
+      <generation>II (2017-2020)</generation>
+      <year>2018</year>
+      <run>105816</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20922677</generation_id>
+    </offer>
+    <offer>
+      <id>439802</id>
+      <mark>Ford</mark>
+      <model>Mondeo</model>
+      <generation>IV Рестайлинг (2010-2014)</generation>
+      <year>2011</year>
+      <run>71450</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>6519702</generation_id>
+    </offer>
+    <offer>
+      <id>440048</id>
+      <mark>Audi</mark>
+      <model>A6</model>
+      <generation>IV (C7) Рестайлинг (2014-2018)</generation>
+      <year>2015</year>
+      <run>163108</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20246005</generation_id>
+    </offer>
+    <offer>
+      <id>440360</id>
+      <mark>Skoda</mark>
+      <model>Octavia</model>
+      <generation>III (A7) Рестайлинг (2017-2020)</generation>
+      <year>2017</year>
+      <run>32613</run>
+      <color>Белый</color>
+      <body-type>Лифтбек</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20898195</generation_id>
+    </offer>
+    <offer>
+      <id>440379</id>
+      <mark>Volvo</mark>
+      <model>XC40</model>
+      <generation>I (2017-2022)</generation>
+      <year>2020</year>
+      <run>42027</run>
+      <color>Красный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21105292</generation_id>
+    </offer>
+    <offer>
+      <id>440418</id>
+      <mark>Mercedes</mark>
+      <model>G-Класс</model>
+      <generation>II (W463) (1990-2006)</generation>
+      <year>2005</year>
+      <run>127632</run>
+      <color>Серебристый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>4760268</generation_id>
+    </offer>
+  </offers>
+</auto-catalog>
